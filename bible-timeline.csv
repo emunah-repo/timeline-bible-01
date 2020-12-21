@@ -1,1 +1,7 @@
 Data | Evento | Acontecimento | observacao 
+git clone #clonaorepositorio
+git add . #addtodasasmudançasfeita
+git commit -m "comentário" #addumcomentario
+git push origem master #enviaasmudançasparaoramomasterdoprojeto
+
+10 a.c. | Guerra | morte | ...
